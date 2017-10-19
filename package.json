@@ -1,0 +1,11 @@
+{
+  "name": "siju",
+  "version": "0.0.1",
+  "description": "Simple Job Queue",
+  "main": "queue.js",
+  "dependencies": {
+    "debug": "^3.1.0"
+  },
+  "author": "Richard van der Dys",
+  "license": "MIT"
+}
